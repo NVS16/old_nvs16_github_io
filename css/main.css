@@ -38,8 +38,9 @@ img{
     height: 250px;
 }
 
-#name{
+.name{
     font-size : 30px;
+    text-shadow : 2px 2px 10px #888;
 }
 
 #tags{
